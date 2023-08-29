@@ -449,13 +449,14 @@ header .fa-bars{
   text-decoration: underline;
 }
 
-.footer .box-container .box img{
+/*.footer .box-container .box img{
   display: flex;
   position: absolute;
-  width: 100px;
-  margin-top: 1rem;
+  max-width: 50px;
+  margin-top: -1rem;
+  gap: 1rem;
   background: transparent;
-}
+}*/
 
 .footer .credit{
   text-align: center;
